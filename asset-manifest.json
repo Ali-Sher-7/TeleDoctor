@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/TeleDoctor/static/css/main.6d363a4f.css",
+    "main.js": "/TeleDoctor/static/js/main.de266274.js",
+    "static/js/453.19f6135e.chunk.js": "/TeleDoctor/static/js/453.19f6135e.chunk.js",
+    "static/media/threedivimg.png": "/TeleDoctor/static/media/threedivimg.d68933c54ff3bd48cd24.png",
+    "static/media/sec1bg.png": "/TeleDoctor/static/media/sec1bg.7f3db9b9fb1abc74e0b6.png",
+    "static/media/doctorxray.png": "/TeleDoctor/static/media/doctorxray.0a108c637a629068229d.png",
+    "static/media/3doctor.png": "/TeleDoctor/static/media/3doctor.0aba7e781526c010ec59.png",
+    "static/media/hey.png": "/TeleDoctor/static/media/hey.2969ed27f7bbc7a852c2.png",
+    "static/media/imagethumb.png": "/TeleDoctor/static/media/imagethumb.76032bf966c4e515ea75.png",
+    "static/media/mobiledoctor.png": "/TeleDoctor/static/media/mobiledoctor.1430462c137cb94b00d8.png",
+    "static/media/olddoc.png": "/TeleDoctor/static/media/olddoc.6d1b7eee516922140a55.png",
+    "static/media/dochead.png": "/TeleDoctor/static/media/dochead.258bfa7410f8442eba28.png",
+    "static/media/smallhey.png": "/TeleDoctor/static/media/smallhey.14fdefbeb24b8b8b872a.png",
+    "static/media/review.png": "/TeleDoctor/static/media/review.3922a913527d373494e1.png",
+    "static/media/logo2.png": "/TeleDoctor/static/media/logo2.26c3c4c3222344214194.png",
+    "index.html": "/TeleDoctor/index.html",
+    "main.6d363a4f.css.map": "/TeleDoctor/static/css/main.6d363a4f.css.map",
+    "main.de266274.js.map": "/TeleDoctor/static/js/main.de266274.js.map",
+    "453.19f6135e.chunk.js.map": "/TeleDoctor/static/js/453.19f6135e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d363a4f.css",
+    "static/js/main.de266274.js"
+  ]
+}
